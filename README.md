@@ -41,7 +41,9 @@ Diving into front end development using ReactJS whenever I'm free to build my ow
 <br />
 
 ## ⚙️ Stats
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=byzxc&theme=leafy&date_format=j%20M%5B%20Y%5D" alt="byzxc" />
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=byzxc&theme=leafy&date_format=j%20M%5B%20Y%5D" alt="byzxc" />
+  </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byzxc&layout=compact&theme=vision-friendly-dark" alt="byzxclang" />
 </p>
 <br />
