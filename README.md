@@ -13,7 +13,7 @@
 </br>
 
 A Software Engineer using C++ and Python. </br> 
-Currently learning Python for Machine Learning and models to solve problem in real-world. </br>
+Currently learning and working using Python for Machine Learning and models to solve problem in real-world. </br>
 Diving into front end development using ReactJS whenever I'm free to build my own website.
 ## Learner for life!🙌
 
