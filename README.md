@@ -17,8 +17,8 @@ Currently learning and working using Python for Machine Learning and models to s
 Diving into front end development using ReactJS whenever I'm free to build my own website.
 ## Learner for life!🙌
 
-- 👯 Connect me on linkedin if you wish!
-- ⚡ Fun fact: I am on PC more than half of the day.
+👯 Connect me on linkedin if you wish! </br>
+⚡ Fun fact: I am on PC more than half of the day.
 
 ## 🚀 Technologies I frequently use
 
