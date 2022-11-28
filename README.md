@@ -45,5 +45,7 @@ Diving into front end development using ReactJS whenever I'm free to build my ow
   <img src="https://github-readme-streak-stats.herokuapp.com?user=byzxc&theme=leafy&date_format=j%20M%5B%20Y%5D" alt="byzxc" />
   </br>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byzxc&layout=compact&theme=vision-friendly-dark&hide_border=false" />
+  </br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=byzxc&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=false" alt="byzxc github stats" />
 </p>
 <br />
